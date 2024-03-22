@@ -16,7 +16,7 @@ Hey there! I'm Maciej Broda, a young and ambitious aspiring programmer with a pa
 
 ## Current Focus
 
-🎯 Actively working on enhancing my skills in C# and exploring the vast possibilities offered by the .NET and ASP.NET frameworks.
+🎯 Actively working on enhancing my skills in C# and exploring the vast possibilities offered by the .NET and ASP.NET frameworks. Also I'm exploring EF Core and SQL.
 
 ⚙️ Interested in contributing to meaningful projects that align with my interests and goals.
 
