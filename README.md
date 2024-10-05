@@ -6,7 +6,7 @@ Hey there! I'm Maciej Broda, a young and ambitious aspiring programmer with a pa
 
 - 🚀 I'm a young and enthusiastic programmer who is just beginning journey in the world of coding.
 - 💡 Known for my openness and unconventional thinking in approaching programming challenges.
-- 🌱 Currently learning and growing in the exciting realms of .NET, C#, ASP.NET
+- 🌱 Currently learning and growing in the exciting realms of .NET, C# and ASP.NET
 
 ## My Values
 
